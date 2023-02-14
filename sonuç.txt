@@ -1,0 +1,6 @@
+Isim: yoldaþ
+Soyisim: çaylý
+Yas: 22
+Cinsiyet: e
+Kisilik sonucunuz: 1
+Ankete verdiginiz puan: & C:/Users/HP/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/HP/OneDrive - metu.edu.tr/Masaüstü/Apps/MyPythonProjects/My Python Files/chessproject.py"
